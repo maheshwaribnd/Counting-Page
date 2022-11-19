@@ -5,10 +5,6 @@ const Counting = (props) =>{
 
     function Increment() {
         setCount(count + 1)
-
-        // if(setCount > 10) {
-            
-        // }
     }
 
     function Decrement() {
